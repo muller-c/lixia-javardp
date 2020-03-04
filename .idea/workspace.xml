@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db61f7e8-eed0-4e13-9170-d92e6ff392b5" name="Default Changelist" comment="" />
+    <list default="true" id="db61f7e8-eed0-4e13-9170-d92e6ff392b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/ar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/en-gb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/en-us" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/es" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/fi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/fr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/fr-be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/hr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/it" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/lt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/lv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/no" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/pt-br" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/sl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/sv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/tk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/keymaps/tr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/java-getopt-1.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/rdpseamless-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lib/wsclient-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/rdplixia-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-common.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/ISO_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/ISO_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/Input_Localised_JPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/Input_Localised_JPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/KeyCode_FileBased_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/KeyCode_FileBased_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/LicenceStore_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/LicenceStore_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/RdesktopJFrame_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/RdesktopJFrame_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/RdesktopJPanel_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/RdesktopJPanel_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/RdpPacket_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/RdpPacket_Localised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1.6/com/lixia/rdp/Utilities_Localised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lixia/rdp/Utilities_Localised.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,15 +54,70 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YgM79CZQlsOteACIiGGe9HCN0r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lixia/rdp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.Start localhost">
+    <configuration name="Start localhost" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/rdplixia-1.0-SNAPSHOT.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="lixia-javardp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.Start localhost" />
+      <item itemvalue="Maven.[clean,install]" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,13 +131,41 @@
       <updated>1583359614246</updated>
       <workItem from="1583359620178" duration="57000" />
       <workItem from="1583359788471" duration="7000" />
+      <workItem from="1583359884208" duration="472000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="325" y="93" key="#Project_Structure" timestamp="1583360069496">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="325" y="93" key="#Project_Structure/0.23.1440.849@0.23.1440.849" timestamp="1583360069496" />
+    <state x="189" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583360356834">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state x="189" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.849@0.23.1440.849" timestamp="1583360356834" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom" timestamp="1583360359059">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.849@0.23.1440.849" timestamp="1583360359059" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center" timestamp="1583360359058">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.849@0.23.1440.849" timestamp="1583360359058" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left" timestamp="1583360359057">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.849@0.23.1440.849" timestamp="1583360359057" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right" timestamp="1583360359058">
+      <screen x="0" y="23" width="1440" height="849" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.849@0.23.1440.849" timestamp="1583360359058" />
     <state x="402" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1583359788765">
       <screen x="0" y="23" width="1440" height="849" />
     </state>
