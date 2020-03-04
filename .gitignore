@@ -1,2 +1,4 @@
 .iml
 **/javadoc
+/target/
+.DS_Store
